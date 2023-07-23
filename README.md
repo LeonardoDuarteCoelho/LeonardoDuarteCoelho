@@ -1,6 +1,6 @@
 # Hello there 👋
 
-I'm Leonardo Coelho, :brazil:. 
+I'm Leonardo Coelho:brazil:. 
 I'm currently living in Matosinhos, :portugal:
 
 - Web developer enthusiast
