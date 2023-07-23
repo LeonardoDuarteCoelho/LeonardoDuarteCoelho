@@ -1,4 +1,4 @@
-# Hello there 👋
+# Hello there! 👋
 
 I'm Leonardo Coelho :brazil:. 
 I'm currently living in Matosinhos, :portugal:
