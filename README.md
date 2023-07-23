@@ -1,7 +1,7 @@
 # Hello there 👋
 
-- I'm Leonardo Coelho, :brazil:. 
-- I'm currently living in Matosinhos, :portugal:
+I'm Leonardo Coelho, :brazil:. 
+I'm currently living in Matosinhos, :portugal:
 
 - Web developer enthusiast
 - Student of the João Gonçalves Zarco Secondary School
