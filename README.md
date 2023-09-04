@@ -21,8 +21,10 @@ Professional Aptitude Test - Creating a website, application and a server connec
 ## ... Learning
 
 - React Native
-- Angular
+- React
 - Bootstrap
+- Sass
+- Django
 - Much more!
 
 ## ... Hobbies
