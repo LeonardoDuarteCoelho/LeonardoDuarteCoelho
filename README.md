@@ -9,8 +9,9 @@ I'm currently living in Matosinhos, :portugal:
 
 ## ... Main Tools
 
-- C++
 - JavaScript (React Native framework)
+- Java
+- C++
 - C# (Unity environment)
 - HTML/CSS/JS
 
