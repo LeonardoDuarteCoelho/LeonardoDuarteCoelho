@@ -1,30 +1,33 @@
 # Hello there! 👋
 
-I'm Leonardo Coelho :brazil:. 
-I'm currently living in Matosinhos, :portugal:
+I'm Leonardo Coelho 🇧🇷. 
+I'm currently living in Matosinhos 🇵🇹:
 
 - Web developer enthusiast
-- Student of the João Gonçalves Zarco Secondary School
+- 12º grade student of the João Gonçalves Zarco Secondary School
 - Attending the Professional Course Technician of Informatics-Systems
 
 ## ... Main Tools
 
-- JavaScript (React Native framework)
+- JavaScript
+- React
+- React Native
 - Java
+- Android Studio
 - C++
 - C# (Unity environment)
-- HTML/CSS/JS
+- HTML/CSS/JS/PHP
+- Bootstrap and Sass
 
 ## ... Current Project
 
-Professional Aptitude Test - Creating a website, application and a server connection for a fictional barber shop for my course.
+Professional Qualification Test - Creating a website, mobile application and a server connection for a fictional urban transport company named "PortuGO".
 
 ## ... Learning
 
 - React Native
 - React
-- Bootstrap
-- Sass
+- Firebase
 - Django
 - Much more!
 
