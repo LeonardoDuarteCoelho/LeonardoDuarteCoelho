@@ -25,10 +25,9 @@ Professional Qualification Test - Creating a website, mobile application and a s
 
 ## ... Learning
 
-- React Native
-- React
+- Flutter
+- Dart
 - Firebase
-- Django
 - Much more!
 
 ## ... Hobbies
