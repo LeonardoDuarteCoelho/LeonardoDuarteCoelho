@@ -3,31 +3,28 @@
 I'm Leonardo Coelho 🇧🇷. 
 I'm currently living in Matosinhos 🇵🇹:
 
-- Web developer enthusiast
-- 12º grade student of the João Gonçalves Zarco Secondary School
-- Attending the Professional Course Technician of Informatics-Systems
+- Web/Mobile Fullstack developer
+- 1st year student of Instituto Superior de Engenharia do Porto
+- Finished the Professional Course of Technician of Computer Systems in Escola Secundária João Gonçalves Zarco
 
 ## ... Main Tools
 
-- JavaScript
+- Flutter
 - React
 - React Native
-- Java
 - Android Studio
-- C++
-- C# (Unity environment)
-- HTML/CSS/JS/PHP
+- Unity game engine
+- Firebase and Google Cloud Platform
 - Bootstrap and Sass
 
 ## ... Current Project
 
-Professional Qualification Test - Creating a website, mobile application and a server connection for a fictional urban transport company named "PortuGO".
+None at the moment.
 
 ## ... Learning
 
-- Flutter
-- Dart
-- Firebase
+- C programming language
+- Next.js
 - Much more!
 
 ## ... Hobbies
