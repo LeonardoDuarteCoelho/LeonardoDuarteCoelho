@@ -4,7 +4,7 @@ I'm Leonardo Coelho 🇧🇷.
 I'm currently living in Matosinhos 🇵🇹:
 
 - Web/Mobile Fullstack developer
-- 1st year student of Instituto Superior de Engenharia do Porto
+- 2nd year student of Instituto Superior de Engenharia do Porto
 - Finished the Professional Course of Technician of Computer Systems in Escola Secundária João Gonçalves Zarco
 
 ## ... Main Tools
